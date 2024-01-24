@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/tv82RsJ3Xs1MLYBmI1mtkA/Explorer-Copy?fuid=1325863818905926832). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. # Rocket-sect # Rocket-sect
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/tv82RsJ3Xs1MLYBmI1mtkA/Explorer-Copy?fuid=1325863818905926832). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. # Rocket-sect
