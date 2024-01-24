@@ -11,6 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+O site para uma empresa de segurança da informação, é um site para o cliente entrar em contado com a empresa que o oferece o servio.
+
 - [Acesse o projeto finalizado, online](https://guipardindev.github.io/Rocket-sect/)
 
 ## 🔖 Layout
